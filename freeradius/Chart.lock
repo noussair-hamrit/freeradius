@@ -1,0 +1,9 @@
+dependencies:
+- name: st-common
+  repository: https://startechnica.github.io/apps
+  version: 0.1.12
+- name: mariadb
+  repository: oci://registry-1.docker.io/bitnamicharts
+  version: 20.5.7
+digest: sha256:e30bd497859412da4e9c2ee15b3dd8651600c20e7bb67da7c37c9249e8cbe7cf
+generated: "2025-06-10T11:46:55.070652192+02:00"
